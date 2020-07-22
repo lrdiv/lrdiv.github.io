@@ -23,10 +23,10 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    archived: false
+    archived: true
     forks: true
-    # projects:
-    # - repo-name
+    projects:
+      - empress-blog
 
 social_media:
   twitter: lrdiv
